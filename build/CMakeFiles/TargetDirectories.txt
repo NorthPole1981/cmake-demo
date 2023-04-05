@@ -1,0 +1,2 @@
+/mnt/f/c_code/cmake-demo/build/CMakeFiles/edit_cache.dir
+/mnt/f/c_code/cmake-demo/build/CMakeFiles/rebuild_cache.dir
